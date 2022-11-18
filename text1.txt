@@ -1,0 +1,63 @@
+0208 GB Training Session.docx
+031422 Rackdown Drill note.txt
+031422 반짝이 심장박동.mp4
+55AZ Campus DCEO Contacts.xlsx
+AA-LD-DriveList-R1-HotSwapChecked.xlsb
+AME/
+AWS PS CSE Networking/
+Academy 2022/
+Almach device replacement tech tip.pptx
+Amazon Chime.lnk*
+Applying to ATA's August 2021 Cohort.zip/
+BF16 Flash Instructions images/
+BF케이블 망한거.txt
+BlueJ.lnk*
+CPR Knet certificate.pdf
+CSE Networking Study Guide.docx
+CapeMay Toll penalty.pdf
+ConnorTaxForCounty2022.pdf
+Cox final bill payment receipt.pdf
+Crux Runbook Certificate.pdf
+DIMM Decoder Test.xlsx
+Daily Midway Setup.lnk*
+Daily_Pilsner.lnk*
+Data Center Security Procedure - Spare Media Preparation and Red Zone Entry (3-8-2022).pdf
+Data Center Security Standard - Spare Media Handling and Storage (2-14-2022).pdf
+Disable_Pilsner.lnk*
+Door Alarm 1 pager - kimky.docx
+EC2 섭스트레이트 암호.txt
+Eclipse IDE for Java Developers - 2022-03.lnk*
+Error images/
+IAD_South_Brown_Bag_-_Chimera_Hardware_Overview.mp4
+ISR4331 oob-con router configuration tech tip by Aiden Kim.pptx
+Intro to Libraries - Final(1).pptx
+Job training PDFs/
+MCM-44862189 Host checks in NSM.xlsx
+MCM-45478029 Removing modules.xlsx
+Manassas DCO Virtual Career Fair 030922.docx
+My tt records.xlsx
+Pages from RedHat_EX200.pdf
+Returns Policy _ Dyson.pdf
+S3 Jager Checklist Final.docx
+Safety PDFs/
+Safety cabinet combination.txt
+Safety tips by Aiden 082422.pptx
+Service Category Quicklinks in Boost 4-6-21.docx
+Slack.lnk*
+Spotlight Presentation_ Network Services.zip/
+Steven.jpg
+TEAM EXPECTATIONS.docx
+Tampermonkey/
+Tips/
+Upgrade_Pilsner.lnk*
+VTO_PTO accrual tracker.txt
+WinSCP.lnk*
+Your Account Is Ready to Fund - Fidelity,Your Accounts Are Ready to Fund - Fidelity.pdf
+desktop.ini
+iad55_amplify_cutsheet_w_macs_and_sn-3.xlsx
+some juniper commands.txt
+text1.txt
+~$My tt records.xlsx
+~$My tt records1.xlsx
+솔이영상/
+인터뷰/
