@@ -13,3 +13,6 @@ git push -u origin main
 git remote add origin https://github.com/khkim16/publicAidenRepository.git
 git branch -M main
 git push -u origin main
+
+How to change git remote URL
+git remote set-url <git remote url you want to use>
